@@ -1,4 +1,4 @@
-# Creator D. Moonen
+// Creator D. Moonen
 #include <stdio.h>
 #include <unistd.h>
 
