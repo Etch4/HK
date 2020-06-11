@@ -5,7 +5,7 @@
 void main(void) {
     int counter;
 
-    for(counter = 3; counter > 0; counter--) {
+    for(counter = 4; counter > 0; counter--) {
         printf("%d\n", counter);
         sleep(1);
         fflush(stdout);
