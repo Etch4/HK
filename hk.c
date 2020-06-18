@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <unistd.h>
 
-void main(void) {
+int main(void) {
     int counter;
 
     for(counter = 4; counter > 0; counter--) {
